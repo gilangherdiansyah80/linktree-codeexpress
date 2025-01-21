@@ -1,8 +1,8 @@
 const Main = () => {
   return (
     <main className="w-full p-3 flex flex-col gap-y-5 md:w-4/5 xl:w-1/3">
-      <section className="bg-slate-600 p-3 rounded-full flex gap-x-5 items-center justify-between duration-500 cursor-pointer hover:scale-105 hover:duration-50 group">
-        <div className="bg-black rounded-full w-12 h-12">
+      <section className="bg-[#000957] p-3 rounded-full flex gap-x-5 items-center justify-between duration-500 cursor-pointer hover:scale-105 hover:duration-50 group">
+        <div className="bg-white rounded-full w-12 h-12">
           <img src="/images/logotext.png" alt="CodeExpress" />
         </div>
         <a href="" className="text-white">
@@ -19,11 +19,11 @@ const Main = () => {
         <h2 className="text-center text-white text-2xl font-bold">
           Contact Kami
         </h2>
-        <section className="bg-slate-600 p-3 rounded-full flex gap-x-5 items-center justify-between duration-500 cursor-pointer hover:scale-105 hover:duration-50 group">
-          <div className="bg-black rounded-full w-12 h-12">
+        <section className="bg-[#000957] p-3 rounded-full flex gap-x-5 items-center justify-between duration-500 cursor-pointer hover:scale-105 hover:duration-50 group">
+          <div className="bg-white rounded-full w-12 h-12">
             <img src="/images/logotext.png" alt="CodeExpress" />
           </div>
-          <a href="" className="text-white">
+          <a href="https://wa.me/6283819249565" className="text-white">
             Whatsapp
           </a>
           <img
@@ -33,11 +33,14 @@ const Main = () => {
           />
         </section>
 
-        <section className="bg-slate-600 p-3 rounded-full flex gap-x-5 items-center justify-between duration-500 cursor-pointer hover:scale-105 hover:duration-50 group">
-          <div className="bg-black rounded-full w-12 h-12">
+        <section className="bg-[#000957] p-3 rounded-full flex gap-x-5 items-center justify-between duration-500 cursor-pointer hover:scale-105 hover:duration-50 group">
+          <div className="bg-white rounded-full w-12 h-12">
             <img src="/images/logotext.png" alt="CodeExpress" />
           </div>
-          <a href="" className="text-white">
+          <a
+            href="https://www.instagram.com/codeexpress2025/"
+            className="text-white"
+          >
             Instagram
           </a>
           <img
